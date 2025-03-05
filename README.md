@@ -1,5 +1,5 @@
 # Currency Converter Web App
-
+video: https://youtu.be/kCEGlvTdWTM 
 This project is a **Flask-based web application** that allows users to convert currencies using real-time exchange rates. It provides a simple and intuitive interface for users to input an amount, select source and destination currencies, and receive an instant conversion result. Additionally, the app includes an endpoint for retrieving historical exchange rates between selected currencies.
 
 The project is designed with a **modular structure**, ensuring that components are reusable, maintainable, and easily extendable. Flask is used as the web framework due to its lightweight nature and simplicity, making it an excellent choice for this type of application.
